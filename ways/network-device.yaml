@@ -1,0 +1,7 @@
+switches:
+ - hostname: switch1
+   vendor: arista
+   location: datacenter
+ - hostname: switch2
+   vendor: cisco
+   location: inventory
